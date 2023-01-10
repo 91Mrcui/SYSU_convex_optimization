@@ -1,0 +1,2 @@
+# SYSU_convex_optimization
+中山大学计算机学院最优化理论课程记录
